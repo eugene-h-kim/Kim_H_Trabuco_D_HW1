@@ -1,14 +1,19 @@
 # Git&GitHub Team Collaboration Project
 
-TODO: building a 1-page app that describes your team (where you’re from, hobbies etc). Create a simple page with an image and text. Create a Github repo with a detailed ReadMe file; push the project and submit the link.
+- Building a 1-page app that describes your team
+- where you’re from
+- hobbies etc.
+- Create a simple page with an image and text.
+- Create a Github repo with a detailed ReadMe file
+- push the project and submit the link.
 
 ## Installation
 
-TODO: Describe the installation process
+Describe the installation process
 
 ## Usage
 
-TODO: Write usage instructions
+Write usage instructions
 
 ## Contributing
 
