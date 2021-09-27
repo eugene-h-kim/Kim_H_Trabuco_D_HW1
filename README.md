@@ -1,6 +1,4 @@
-<snippet>
-  <content><![CDATA[
-# ${1:Git&GitHub Team Collaboration Project}
+# Git&GitHub Team Collaboration Project
 
 TODO: building a 1-page app that describes your team (where you’re from, hobbies etc). Create a simple page with an image and text. Create a Github repo with a detailed ReadMe file; push the project and submit the link.
 
@@ -27,6 +25,3 @@ TODO: Write History
 ## Credits
 
 TODO: Write license
-]]></content>
-<tabTrigger>readme</tabTrigger>
-</snippet>
