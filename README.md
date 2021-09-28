@@ -1,5 +1,11 @@
-	<<<<<<< dev.khe.writeReadmeFile
-	# Git&GitHub Team Collaboration Project
+  <<<<<<< dev.khe.secondEugeneBio
+    <!-- Please change or fill some contents if you need to -->
+
+  # Git&GitHub Team Collaboration Project
+  =======
+    <<<<<<< dev.khe.writeReadmeFile
+    # Git&GitHub Team Collaboration Project
+  >>>>>>> main
 
 	- Building a 1-page app that describes your team
 	- where you’re from
