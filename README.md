@@ -1,4 +1,8 @@
   <<<<<<< dev.khe.addEugeneBio
+    <<<<<<< dev.khe.addEugeneBio
+  =======
+    <<<<<<< dev.khe.secondEugeneBio
+  >>>>>>> main
     <!-- Please change or fill some contents if you need to -->
 
   # Git&GitHub Team Collaboration Project
