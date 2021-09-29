@@ -1,4 +1,8 @@
   <<<<<<< dev.khe.changeReadmeFile
+    <<<<<<< dev.khe.changeReadmeFile
+  =======
+    <<<<<<< dev.khe.secondEugeneBio
+  >>>>>>> main
     <!-- Please change or fill some contents if you need to -->
 
   # Git&GitHub Team Collaboration Project
