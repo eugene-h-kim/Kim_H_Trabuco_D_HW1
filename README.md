@@ -1,7 +1,10 @@
 
 # Super Duper The Future Front-end Developer Team
 
-### Kim, Hyeongtae
+## Kim, Hyeongtae
+
+![Pool Villa 3D](/images/eugene_kim_03.jpg)
+
 I am from Seoul, Korea, and living in London ON now with my wife. 
 I came to Canada last September so it has been exactly one year. 
 All I can talk about my hobby is that I like reading, learning, movies, 
@@ -12,20 +15,44 @@ Travel is like stepping into completely different places and cultures.
 Certainly, these travel experiences are of great help in expanding 
 the breadth and depth of my thinking as well as an understanding of the world.
 
-#### Favourites
+### Favourites
 * Baseball 
 * Books 
 * Movies 
 * Korean Galbi
 
-#### Skills
+### Skills
 * Adobe Creative Suite (Photoshop, Illustrator, Indesign)
 * SketchUp
 * 3D MAX
 * V-Ray Render
+* Drawing
+
+### My Works
+
+![Pool Villa 3D](/images/portfolio/portfolio_01_pool_villa.jpg)
+
+![Residence 3D](/images/portfolio/portfolio_02_residential.jpg)
+
+![Cafe Interior 3D](/images/portfolio/portfolio_03_cafe.jpg)
+
+![Starbucks Interior 3D](/images/portfolio/portfolio_04_starbucks.jpg)
+
+![Starbucks Isometric 3D](/images/portfolio/portfolio_05_starbucks_isometric_view.jpg)
+
+![Exterior Drawing](/images/portfolio/portfolio_drawing_01.jpg)
+
+![Exterior Drawing](/images/portfolio/portfolio_drawing_02.jpg)
+
+![Exterior Drawing](/images/portfolio/portfolio_drawing_03.jpg)
+
+![Exterior Drawing](/images/portfolio/portfolio_drawing_10.jpg)
 
 
-### Trabuco, Dianne
+==================================================================
+
+
+## Trabuco, Dianne
 I was born and raised in the Philippines. 
 I moved to Canada two months ago and am now working as a part-time student 
 at a fast food restaurant. 
