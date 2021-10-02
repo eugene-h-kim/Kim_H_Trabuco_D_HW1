@@ -62,6 +62,32 @@ which is why I took Interactive Media Design.
 I also enjoy cooking and swimming. Spinach, is my only pet. He's such a cute and adoble pup. 
 I miss going for walks and cuddling with him.
 
+### Favourites
+* Editing Pictures 
+* Recording Videos  
+* Cooking 
+* Swimming
+* Reading Books
+
+### Skills
+* Portrait
+* Landscape
+* Pets
+* Food
+
+### My Works
+
+![Landscape Beach](images/portImg/landscape_beach.jpeg)
+
+![Sunset by the Beach](images/portImg/sunset_beach.jpeg)
+
+![Sunset with the Boat](images/portImg/sunset_boat.jpeg)
+
+![Sunset with the Dog](images/portImg/sunset_dog.jpeg)
+
+![Wide Church](images/portImg/wide_church.jpeg)
+
+
 ## Contributing
 
 	1. Fork it!
