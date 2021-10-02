@@ -31,7 +31,7 @@ section .screen:nth-child(1) {
 }
 
 section .screen:nth-child(2) {
-  background: #ff0;
+  background: #dfd074;
 }
 
 section .screen .card {
@@ -97,5 +97,6 @@ section .screen .card a:hover ~ .content,
 }
 
 section .screen:nth-child(2) .content {
-  background: #ff0;
+  background: #dfd074;
 }
+
